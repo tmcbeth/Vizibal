@@ -1,0 +1,2 @@
+*.geojson filter=lfs diff=lfs merge=lfs -text
+2023_zipcode.geojson filter=lfs diff=lfs merg lfs -text
